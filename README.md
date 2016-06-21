@@ -7,10 +7,12 @@ Include this script file in Website.<br/>
 <b>search</b>:'bool property if true search functionality will be added else no search function'<br/>
 
 e.g:<br/>
+```html
 <script type="text/javascript"><br/>
         jsontotable('http://....../Webstats.json', 'div_table_stats', 'gridmain1', true, false);<br/>
 </script><br/>
 <b>HTML</b><br/>
 <div id="div_table_stats"><br/><br/>
 </div><br/>
+```
 
