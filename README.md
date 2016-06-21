@@ -9,7 +9,7 @@ Include this script file in Website.<br/>
 e.g:<br/>
 ```html
 <script type="text/javascript">
-        jsontotable('http://....../Webstats.json', 'div_table_stats', 'gridmain1', true, false);
+        jsontotable('http://....../Webstats.json', 'div_table_stats', 'table table-responsive', true, false);
 </script>
 HTML
 <div id="div_table_stats"><br/>
