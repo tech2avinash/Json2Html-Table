@@ -11,8 +11,7 @@ e.g:<br/>
 <script type="text/javascript">
         jsontotable('http://....../Webstats.json', 'div_table_stats', 'table table-responsive', true, false);
 </script>
-
-<div id="div_table_stats"><br/>
-</div><br/>
+<div id="div_table_stats">
+</div>
 ```
 
